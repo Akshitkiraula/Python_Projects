@@ -1,0 +1,9 @@
+STUDENT PROFILE
+----------------------------------
+Name: akshit kiraula
+Roll No: 2501660011
+Course: bca
+University: krmu
+City: gurugram
+Age: 45
+Hobby: cricket
