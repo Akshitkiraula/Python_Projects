@@ -1,4 +1,13 @@
-# Student Profile Console App - BCA Assignment
+# OUTPUT
+bca_python_assignment1/Assets/Screenshot 2025-11-11 135728.png
+
+bca_python_assignment1/Assets/Screenshot 2025-11-11 135745.png
+
+bca_python_assignment1/Assets/Screenshot 2025-11-11 135800.png
+
+bca_python_assignment1/Assets/Screenshot 2025-11-11 135816.png
+
+# Student Profile CLI tool - BCA Assignment
 
 A Python-based Command Line Interface (CLI) tool that demonstrates Python fundamentals including variables, operators, string operations, and file handling.
 
