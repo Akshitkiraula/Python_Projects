@@ -1,11 +1,11 @@
 # OUTPUT
-/images/bca_python_assignment1/Assets/Screenshot 2025-11-11 135728.png
+![Preview](/bca_python_assignment1/Assets/Screenshot 2025-11-11 135728.png)
 
-/images/bca_python_assignment1/Assets/Screenshot 2025-11-11 135745.png
+![Preview](/bca_python_assignment1/Assets/Screenshot 2025-11-11 135745.png)
 
-/images/bca_python_assignment1/Assets/Screenshot 2025-11-11 135800.png
+![Preview](/bca_python_assignment1/Assets/Screenshot 2025-11-11 135800.png)
 
-/images/bca_python_assignment1/Assets/Screenshot 2025-11-11 135816.png
+![Preview](/bca_python_assignment1/Assets/Screenshot 2025-11-11 135816.png)
 
 # Student Profile CLI tool - BCA Assignment
 
